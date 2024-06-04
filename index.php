@@ -62,7 +62,7 @@
             ?>
         </p>
         <p><b>Unidade:</b> Fatec Taquaritinga</p>
-        <p><b>Prof.:</b> Mauricio de Oliveira Dian</p>
+        <p><b>Aluna:</b> Yasmin da Silva Borges</p>
     </div>
     <div class="col-sm">
         <img src="https://www.site.pt/wp-content/uploads/2022/01/o-que-e-php.jpg" alt="php-imagem" width="600px" height="370px">
